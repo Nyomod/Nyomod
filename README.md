@@ -4,7 +4,7 @@
 - Hivatalos Peter oldal segéd
 - 
 
-<a href="https://adatbank.mlsz.hu/player/1211659.html">Soha nem nyomta ennyire</a>
+<a href="https://adatbank.mlsz.hu/player/1211659.html">Soha nem nyomta ennyire senki</a>
 <br>
 <a href="https://pataky.hu">Magyar Harvard</a>
 <!---
