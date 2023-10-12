@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nyomod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Sziás, I’m @Nyomod
+- Posztmodern
+- A rók lyó sport rósz
+- Hivatalos Peter oldal segéd
+- 
 
 <a href="https://adatbank.mlsz.hu/player/1211659.html">Soha nem nyomta ennyire</a>
 <br>
