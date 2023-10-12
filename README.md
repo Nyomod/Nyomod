@@ -1,6 +1,6 @@
 - 👋 Sziás, I’m @Nyomod
 - Posztmodern
-- A rók lyó sport rósz
+- A Nagy focás
 - Hivatalos Peter oldal segéd
 - 
 
